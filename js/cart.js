@@ -140,7 +140,7 @@ function Comprar() {
     }
 
     /*
-    let telefono = "+54 9 2944 50-6988";
+    let telefono = "5491161625030";
 
     let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
 		*_Bierhaus Henseler_*%0A
